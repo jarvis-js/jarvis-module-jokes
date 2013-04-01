@@ -1,0 +1,20 @@
+{
+  "author": "Paul Dixon <paul.dixon@mintbridge.co.uk>",
+  "name": "jarvis-module-jokes",
+  "description": "Tell a random Joke",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dobot/jarvis-module-jokes.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "dependencies": {
+    "request": "~2.16.6"
+  },
+  "devDependencies": {}
+}
